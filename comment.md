@@ -24,7 +24,7 @@ q2 에 컨트롤 하는 부분을 보면
  class Main{
     public static void main(String[] args){
         Main main = new Main();
-        main.control();
+        main.controller();
     }
 
     public void conrtoller(){
